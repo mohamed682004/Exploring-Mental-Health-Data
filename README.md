@@ -60,14 +60,6 @@ This project leverages the following tools and libraries:
 
 ---
 
-## 📊 Example Visualizations
-
-Check out the `visuals/` directory for sample graphs and charts created during the analysis.
-
-![Example Chart](visuals/example-chart.png) *(Replace with your own image)*
-
----
-
 ## 🌟 How to Use
 
 1. Clone this repository:
@@ -111,5 +103,3 @@ For any questions or feedback, please reach out:
 
 ###Let's work together to better understand mental health through data! 💙
 ```
-
-Feel free to customize any section to better match your project specifics! 🚀
